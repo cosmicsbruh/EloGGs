@@ -68,6 +68,7 @@ def ascii():
               ║╣ ║  ║ ║──║ ╦║ ╦╚═╗
               ╚═╝╩═╝╚═╝  ╚═╝╚═╝╚═╝{Fore.RESET}
     {Fore.RED}╚══════════════════════════════════════╝{Fore.RESET}
+        {Fore.GREEN}https://github.com/codeuk/eloggs{Fore.RESET}
     """)
  
 def printoptions():
