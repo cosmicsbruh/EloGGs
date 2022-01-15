@@ -1,5 +1,5 @@
 # EloGGs
-This is an old patched 1v1.LOL boosting program I developed months ago, My team made around $1000 total off of this, but now it's been patched by the developers.
+EloGGs 🎮 is an old patched 1v1.LOL boosting program I developed months ago, My team made around $1000 total off of this, but now it's been patched by the developers.
 
 It still partially works but there's a huge ratelimit whilst boosting, and is now basically useless.
 
