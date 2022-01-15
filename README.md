@@ -9,7 +9,7 @@ The program includes stat checking, nickname changing, themes, and boosting ofco
 
 # Usage
 Here's how to setup the program
-- Create a pastebin paste and put a custom key in there (doesnt matter what) copy the raw link and put it in **line 59**
+- Create a pastebin paste and put a key in there (doesnt matter what) copy the raw link and put it in **line 59**
 - Put your refresh token (get it through the network packet when logging into 1v1.LOL) into the config.json file
 - Load the program and enter the key you put in the pastebin
 
