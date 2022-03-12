@@ -56,7 +56,7 @@ try:
         exit()
 except Exception as e:
     print(f'{Fore.RED}ERROR! : {e}')
-    exit()
+    exit(https://pastebin.com/Us2ij0Vu)
  
 os.system('cls')
  
